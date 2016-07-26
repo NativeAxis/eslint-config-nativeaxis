@@ -1,5 +1,5 @@
 {
-  "name": "nax-eslint-config",
+  "name": "eslint-config-nativeaxis",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NativeAxis/nax-eslint-config.git"
+    "url": "git+https://github.com/NativeAxis/eslint-config-nativeaxis.git"
   },
-  "author": "",
+  "author": "Jordan Kohl (https://twitter.com/simpixelated)",
+  "contributors": ["Marconi Moreto Jr (https://github.com/marconi)"],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NativeAxis/nax-eslint-config/issues"
+    "url": "https://github.com/NativeAxis/eslint-config-nativeaxis/issues"
   },
-  "homepage": "https://github.com/NativeAxis/nax-eslint-config#readme"
+  "homepage": "https://github.com/NativeAxis/eslint-config-nativeaxis#readme"
 }
