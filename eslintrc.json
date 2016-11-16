@@ -65,10 +65,10 @@
     "react/no-unknown-property": 2,
     "react/no-multi-comp": 2,
     "react/prefer-es6-class": 2,
-    "react/prefer-stateless-function": 1,
+    "react/prefer-stateless-function": 0,
     "react/self-closing-comp": 1,
     "react/sort-comp": 1,
-    "react/wrap-multilines": 1,
+    "react/jsx-wrap-multilines": 1,
 
     "lodash/callback-binding": 2,
     "lodash/unwrap": 2,
