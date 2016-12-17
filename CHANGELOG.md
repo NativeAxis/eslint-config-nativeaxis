@@ -2,8 +2,18 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-[Unreleased](https://github.com/NativeAxis/nax-client-admin/compare/v1.2.0...HEAD)
+[Unreleased](https://github.com/NativeAxis/nax-client-admin/compare/v1.2.1...HEAD)
 ------------
+
+[v1.2.1](https://github.com/NativeAxis/eslint-config-nativeaxis/releases/tag/v1.2.1)
+------------
+
+### Added
+- [lodash/chaining](https://github.com/wix/eslint-plugin-lodash/blob/master/docs/rules/chaining.md)
+
+### Removed
+- lodash/no-single-chain
+
 
 [v1.2.0](https://github.com/NativeAxis/eslint-config-nativeaxis/releases/tag/v1.2.0)
 ------------
@@ -14,6 +24,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Removed
 - `__VERSION__` from globals
+
 
 [v1.1.0](https://github.com/NativeAxis/eslint-config-nativeaxis/releases/tag/v1.1.0)
 --------
