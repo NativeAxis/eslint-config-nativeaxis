@@ -8,7 +8,7 @@
   },
   "peerDependencies": {
     "eslint": ">= 3",
-    "eslint-plugin-lodash": ">= 1",
+    "eslint-plugin-lodash": ">= 2",
     "eslint-plugin-react": ">= 5"
   },
   "repository": {
