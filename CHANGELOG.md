@@ -2,7 +2,21 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unreleased](https://github.com/NativeAxis/nax-client-admin/compare/v1.1.0...HEAD)
+[Unreleased](https://github.com/NativeAxis/nax-client-admin/compare/v1.2.0...HEAD)
+------------
+
+[v1.2.0](https://github.com/NativeAxis/eslint-config-nativeaxis/releases/tag/v1.2.0)
+------------
+
+### Changed
+- allow future upgraded peerDependencies
+- improved README
+
+### Removed
+- `__VERSION__` from globals
+
+[v1.1.0](https://github.com/NativeAxis/eslint-config-nativeaxis/releases/tag/v1.1.0)
+--------
 
 ### Changed
 - [disabled react/prefer-stateless function](https://github.com/NativeAxis/eslint-config-nativeaxis/pull/3)
