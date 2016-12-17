@@ -84,7 +84,6 @@
     "lodash/prefer-constant": 1,
     "lodash/prefer-is-nil": 1,
     "lodash/prefer-startswith": 1,
-    "lodash/prefer-chain": 1,
     "lodash/prefer-matches": 1,
     "lodash/prefer-times": 1
   }
