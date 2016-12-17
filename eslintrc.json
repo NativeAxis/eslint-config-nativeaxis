@@ -20,9 +20,6 @@
       "version": "0.14"
     }
   },
-  "globals": {
-    "__VERSION__": true
-  },
   "rules": {
     "block-spacing": 1,
     "brace-style": 1,
