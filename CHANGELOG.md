@@ -6,7 +6,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ------------
 
 
-v1.2.3
+[v1.2.3](https://github.com/NativeAxis/eslint-config-nativeaxis/releases/tag/v1.2.3)
 ------------
 
 ### Changed
