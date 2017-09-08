@@ -6,6 +6,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ------------
 
 
+[v1.2.4](https://github.com/NativeAxis/eslint-config-nativeaxis/releases/tag/v1.2.4)
+------------
+
+### Changed
+- upped `react/prefer-stateless-function` to error
+
+
 [v1.2.3](https://github.com/NativeAxis/eslint-config-nativeaxis/releases/tag/v1.2.3)
 ------------
 
